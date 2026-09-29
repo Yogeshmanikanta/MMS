@@ -1,31 +1,32 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import { Providers } from './providers';
 
 export const metadata: Metadata = {
-  title: 'College Mess Management | NYTLabs',
-  description: 'Production-quality College Mess Management and Billing System',
+  title: 'Hostel Mess',
+  description: 'Daily mess attendance, guest entries and monthly hostel bills.'
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: '#091540'
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="en-IN">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* Atkinson Hyperlegible: made to keep 0/O and 1/l/I apart — matters for roll numbers. */}
         <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;500;600;700;800&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className="min-h-screen bg-zinc-50 text-zinc-900 font-sans antialiased flex flex-col justify-between">
-        <Providers>
-          <div className="flex-1 flex flex-col">{children}</div>
-        </Providers>
+      <body>
+        <Providers>{children}</Providers>
       </body>
     </html>
   );

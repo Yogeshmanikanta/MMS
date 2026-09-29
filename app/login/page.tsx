@@ -1,172 +1,121 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
+import Link from 'next/link';
 import { useRouter } from 'next/navigation';
+import { Eye, EyeOff, Loader2 } from 'lucide-react';
 import { useAuth } from '@/lib/auth-context';
-import { Footer } from '@/components/footer';
-import { Building2, ShieldCheck, Eye, EyeOff, Loader2, AlertCircle, ArrowRight, KeyRound, User } from 'lucide-react';
+import { Field } from '@/components/ui';
+
+const LAST_USER_KEY = 'mms_last_username';
 
 export default function LoginPage() {
   const router = useRouter();
-  const { login, isAuthenticated, isLoading: authLoading } = useAuth();
-
-  const [username, setUsername] = useState('NYTlabs');
+  const { login, isAuthenticated, isLoading } = useAuth();
+  const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
-  
-  const [isSubmitting, setIsSubmitting] = useState(false);
-  const [errorMessage, setErrorMessage] = useState('');
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState('');
 
-  // Auto redirect if already authenticated
   useEffect(() => {
-    if (!authLoading && isAuthenticated) {
-      router.replace('/dashboard');
-    }
-  }, [isAuthenticated, authLoading, router]);
+    if (!isLoading && isAuthenticated) router.replace('/today');
+  }, [isAuthenticated, isLoading, router]);
 
-  const handleLoginSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setErrorMessage('');
-
-    if (!username.trim()) {
-      setErrorMessage('Please enter your admin username.');
-      return;
-    }
-    if (!password.trim()) {
-      setErrorMessage('Please enter your password.');
-      return;
-    }
-
-    setIsSubmitting(true);
-
+  // Remember the username so staff only type the password.
+  useEffect(() => {
     try {
-      const result = await login(username.trim(), password.trim());
-      if (result.success) {
-        router.push('/dashboard');
-      } else {
-        setErrorMessage(result.message || 'Invalid username or password.');
-      }
-    } catch (err) {
-      setErrorMessage('An unexpected authentication error occurred.');
-    } finally {
-      setIsSubmitting(false);
+      setUsername(localStorage.getItem(LAST_USER_KEY) || '');
+    } catch {}
+  }, []);
+
+  const submit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!username.trim() || !password) {
+      setError('Enter your username and password.');
+      return;
+    }
+    setSubmitting(true);
+    setError('');
+    const res = await login(username.trim(), password);
+    setSubmitting(false);
+    if (res.success) {
+      try {
+        localStorage.setItem(LAST_USER_KEY, username.trim());
+      } catch {}
+      router.replace('/today');
+    } else {
+      setError(res.message || 'That username and password don’t match.');
     }
   };
 
-  if (authLoading) {
-    return (
-      <div className="min-h-screen bg-zinc-50 flex items-center justify-center text-zinc-500">
-        <div className="flex items-center gap-2 text-sm">
-          <Loader2 className="w-5 h-5 animate-spin text-blue-600" />
-          <span className="font-medium">Verifying authentication session...</span>
-        </div>
-      </div>
-    );
-  }
-
   return (
-    <div className="min-h-screen bg-zinc-50 flex flex-col justify-between">
-      <div className="flex-1 flex items-center justify-center p-4">
-        <div className="w-full max-w-md bg-white border border-zinc-200 rounded-xl p-8 shadow-sm space-y-6">
-          
-          {/* Header Branding */}
-          <div className="text-center space-y-2">
-            <div className="w-12 h-12 rounded-xl bg-blue-600 text-white flex items-center justify-center mx-auto shadow-md shadow-blue-600/20">
-              <Building2 className="w-6 h-6" />
-            </div>
-            <div>
-              <h1 className="text-2xl font-extrabold text-zinc-900 tracking-tight">NYTLabs</h1>
-              <p className="text-xs font-bold text-blue-600 uppercase tracking-widest mt-0.5">MMS — Admin Portal</p>
-            </div>
-            <p className="text-xs text-zinc-500 pt-1">
-              Canteen & Hostel Mess Management System
-            </p>
-          </div>
+    <div className="grid min-h-dvh md:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
+      <div className="flex flex-col justify-between bg-ink px-6 py-8 text-white md:px-12 md:py-14">
+        <div>
+          <p className="text-2xl font-bold">Hostel Mess</p>
+          <p className="mt-2 max-w-xs text-white/70">Attendance, guest entries and monthly bills for the hostel mess.</p>
+        </div>
+        <p className="mt-10 hidden text-sm text-white/45 md:block">Built by NYTLabs</p>
+      </div>
 
-          {/* Admin Security Banner */}
-          <div className="p-3.5 rounded-lg bg-zinc-50 border border-zinc-200 text-xs space-y-1">
-            <div className="flex items-center gap-2 text-zinc-900 font-bold">
-              <ShieldCheck className="w-4 h-4 text-emerald-500 shrink-0" />
-              <span>Administrator Sign In</span>
-            </div>
-            <p className="text-zinc-500 text-[11px] leading-relaxed">
-              Restricted portal for wardens & canteen managers to administer daily attendance, monthly billing, guest ledger, and cost tariffs.
-            </p>
-          </div>
+      <div className="flex items-start justify-center px-6 py-10 md:items-center md:px-12">
+        <form onSubmit={submit} className="w-full max-w-sm space-y-5" noValidate>
+          <h1 className="text-2xl font-bold">Sign in</h1>
 
-          {/* Error Message Box */}
-          {errorMessage && (
-            <div className="p-3 bg-red-50 border border-red-200 text-red-700 text-xs font-medium rounded-lg flex items-center gap-2.5">
-              <AlertCircle className="w-4 h-4 text-red-500 shrink-0" />
-              <span>{errorMessage}</span>
+          <Field label="Username" htmlFor="username">
+            <input
+              id="username"
+              className="field"
+              autoComplete="username"
+              autoCapitalize="none"
+              autoFocus={!username}
+              value={username}
+              onChange={e => setUsername(e.target.value)}
+            />
+          </Field>
+
+          <Field label="Password" htmlFor="password">
+            <div className="relative">
+              <input
+                id="password"
+                className="field pr-12"
+                type={showPassword ? 'text' : 'password'}
+                autoComplete="current-password"
+                autoFocus={Boolean(username)}
+                value={password}
+                onChange={e => setPassword(e.target.value)}
+              />
+              <button
+                type="button"
+                onClick={() => setShowPassword(s => !s)}
+                className="absolute right-1 top-1/2 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-md text-ink-3 hover:bg-sky-wash hover:text-ink"
+                aria-label={showPassword ? 'Hide password' : 'Show password'}
+              >
+                {showPassword ? <EyeOff className="h-5 w-5" /> : <Eye className="h-5 w-5" />}
+              </button>
             </div>
+          </Field>
+
+          {error && (
+            <p role="alert" className="rounded-md bg-away-wash px-3 py-2.5 text-away">
+              {error}
+            </p>
           )}
 
-          {/* Login Form */}
-          <form onSubmit={handleLoginSubmit} className="space-y-4 text-xs">
-            {/* Username Input */}
-            <div className="space-y-1.5">
-              <label className="font-semibold text-zinc-700 block">Username *</label>
-              <div className="relative">
-                <User className="w-4 h-4 text-zinc-400 absolute left-3 top-3 pointer-events-none z-10" />
-                <input
-                  type="text"
-                  required
-                  placeholder="e.g. NYTlabs"
-                  value={username}
-                  onChange={(e) => setUsername(e.target.value)}
-                  className="input-base input-with-icon h-10 text-xs"
-                />
-              </div>
-            </div>
+          <button type="submit" className="btn btn-primary w-full" disabled={submitting}>
+            {submitting && <Loader2 className="h-5 w-5 animate-spin" />}
+            {submitting ? 'Signing in' : 'Sign in'}
+          </button>
 
-            {/* Password Input with Show/Hide Toggle */}
-            <div className="space-y-1.5">
-              <label className="font-semibold text-zinc-700 block">Admin Password *</label>
-              <div className="relative">
-                <KeyRound className="w-4 h-4 text-zinc-400 absolute left-3 top-3 pointer-events-none z-10" />
-                <input
-                  type={showPassword ? 'text' : 'password'}
-                  required
-                  placeholder="Enter your password..."
-                  value={password}
-                  onChange={(e) => setPassword(e.target.value)}
-                  className="input-base input-with-icon pr-10 h-10 text-xs font-mono"
-                />
-                <button
-                  type="button"
-                  onClick={() => setShowPassword(!showPassword)}
-                  className="absolute right-3 top-2.5 text-zinc-400 hover:text-zinc-700 focus:outline-none transition-colors"
-                  title={showPassword ? 'Hide password' : 'Show password'}
-                >
-                  {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
-                </button>
-              </div>
-            </div>
-
-            {/* Login Button with Loading Spinner */}
-            <button
-              type="submit"
-              disabled={isSubmitting}
-              className="w-full h-10 rounded-lg bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold transition-all shadow-md shadow-blue-600/20 flex items-center justify-center gap-2 disabled:opacity-60 disabled:cursor-not-allowed"
-            >
-              {isSubmitting ? (
-                <>
-                  <Loader2 className="w-4 h-4 animate-spin" />
-                  <span>Authenticating...</span>
-                </>
-              ) : (
-                <>
-                  <span>Admin Login</span>
-                  <ArrowRight className="w-4 h-4" />
-                </>
-              )}
-            </button>
-          </form>
-
-        </div>
+          <p className="pt-2 text-sm text-ink-3">
+            Student?{' '}
+            <Link href="/student-self" className="font-semibold text-royal underline-offset-2 hover:underline">
+              Check your meals
+            </Link>
+          </p>
+        </form>
       </div>
-      <Footer />
     </div>
   );
 }

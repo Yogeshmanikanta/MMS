@@ -68,7 +68,7 @@ Additional administrative utility modules include **Dashboard**, **Student Maste
 
 ### FR-4: Student Master & Seed Data System
 * **FR-4.1**: The system shall store student records with fields: `id`, `roll_number`, `name`, `gender`, `department`, `year`, `course`, `status`, `joined_at`.
-* **FR-4.2**: The system shall seed 395 female hostel students pre-extracted from the official dataset (`W HOSTEL BILLS 2026.xlsx`).
+* **FR-4.2**: The system shall seed 393 hostel students pre-extracted from the official dataset (`W HOSTEL BILLS 2026.xlsx`).
 * **FR-4.3**: The system shall support bulk import via JSON or CSV files with roll number uniqueness enforcement.
 * **FR-4.4**: The system shall allow searching by roll number/name and filtering by department, year, gender, and status.
 
@@ -162,4 +162,4 @@ Additional administrative utility modules include **Dashboard**, **Student Maste
 ## 6. Verification & Validation
 * All pages compile with 0 TypeScript warnings/errors (`npx tsc --noEmit`).
 * Production build verified via Next.js compiler (`npm run build`).
-* Supabase database schema verified and seeded with 395 active student records.
+* Supabase database schema verified and seeded with 393 active student records.

@@ -167,3 +167,45 @@ export interface TokenMonthlyReportRow {
   total_amount: number;
   daily_breakdown: Record<string, { quantity: number; amount: number }>;
 }
+
+// --- V2 STORE TYPES ---
+
+/** Bitmask of meals eaten on a day: 1 = breakfast, 2 = lunch, 4 = dinner. 7 = all three. */
+export type MealMask = number;
+
+export const MEAL_BITS: Record<MealType, number> = { breakfast: 1, lunch: 2, dinner: 4 };
+export const ALL_MEALS: MealMask = 7;
+export const MEAL_ORDER: MealType[] = ['breakfast', 'lunch', 'dinner'];
+
+/**
+ * One recorded day. Everyone on the active roll is assumed to have eaten all three
+ * meals; `away` only holds the exceptions (studentId -> meals actually eaten).
+ */
+export interface DayRecord {
+  recordedAt: string;
+  away: Record<string, MealMask>;
+}
+
+export interface DayCounts {
+  total: number;
+  breakfast: number;
+  lunch: number;
+  dinner: number;
+  awayStudents: number;
+}
+
+export interface SelectableItem {
+  id: string;
+  name: string;
+  price: number;
+  type: 'item' | 'meal';
+}
+
+export type SyncState = 'local' | 'idle' | 'syncing' | 'offline' | 'error';
+
+export interface SyncStatus {
+  state: SyncState;
+  pending: number;
+  lastSyncedAt?: string;
+  error?: string;
+}

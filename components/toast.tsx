@@ -1,147 +1,107 @@
 'use client';
 
-import React, { useState, useEffect, useCallback, createContext, useContext } from 'react';
-import { CheckCircle2, AlertCircle, Info, X, AlertTriangle } from 'lucide-react';
+import React, { createContext, useCallback, useContext, useEffect, useState } from 'react';
+import { X } from 'lucide-react';
+import { cn } from '@/lib/cn';
 
 export type ToastType = 'success' | 'error' | 'info' | 'warning';
 
-interface ToastItem {
-  id: string;
+interface ToastOptions {
+  duration?: number;
+  action?: { label: string; onClick: () => void };
+}
+
+interface ToastItem extends ToastOptions {
+  id: number;
   type: ToastType;
   title: string;
   message?: string;
-  duration?: number;
 }
 
 interface ToastContextType {
-  showToast: (type: ToastType, title: string, message?: string, duration?: number) => void;
+  showToast: (type: ToastType, title: string, message?: string, opts?: number | ToastOptions) => void;
 }
 
-const ToastContext = createContext<ToastContextType>({
-  showToast: () => {}
-});
+const ToastContext = createContext<ToastContextType>({ showToast: () => {} });
 
 export function useToast() {
   return useContext(ToastContext);
 }
 
+let nextId = 1;
+
 export function ToastProvider({ children }: { children: React.ReactNode }) {
   const [toasts, setToasts] = useState<ToastItem[]>([]);
 
-  const showToast = useCallback((type: ToastType, title: string, message?: string, duration: number = 4000) => {
-    const id = `toast-${Date.now()}-${Math.random().toString(36).substring(2, 6)}`;
-    setToasts(prev => [...prev, { id, type, title, message, duration }]);
-  }, []);
+  const dismiss = useCallback((id: number) => setToasts(prev => prev.filter(t => t.id !== id)), []);
 
-  const dismissToast = useCallback((id: string) => {
-    setToasts(prev => prev.filter(t => t.id !== id));
+  const showToast = useCallback((type: ToastType, title: string, message?: string, opts?: number | ToastOptions) => {
+    const o: ToastOptions = typeof opts === 'number' ? { duration: opts } : opts || {};
+    const id = nextId++;
+    // Newest replaces older ones beyond three so the stack never covers the page.
+    setToasts(prev => [...prev.slice(-2), { id, type, title, message, ...o }]);
   }, []);
 
   return (
     <ToastContext.Provider value={{ showToast }}>
       {children}
-
-      {/* Toast Container — fixed top-right overlay */}
-      <div className="fixed top-5 right-5 z-[9999] flex flex-col gap-2.5 max-w-sm w-full pointer-events-none">
-        {toasts.map((toast) => (
-          <ToastNotification key={toast.id} toast={toast} onDismiss={dismissToast} />
+      <div
+        aria-live="polite"
+        className="pointer-events-none fixed inset-x-0 bottom-20 z-[70] flex flex-col items-center gap-2 px-4 md:bottom-6 md:left-auto md:right-6 md:items-end"
+      >
+        {toasts.map(t => (
+          <Toast key={t.id} toast={t} onDismiss={dismiss} />
         ))}
       </div>
     </ToastContext.Provider>
   );
 }
 
-function ToastNotification({ toast, onDismiss }: { toast: ToastItem; onDismiss: (id: string) => void }) {
-  const [isVisible, setIsVisible] = useState(false);
-  const [isLeaving, setIsLeaving] = useState(false);
+function Toast({ toast, onDismiss }: { toast: ToastItem; onDismiss: (id: number) => void }) {
+  const [paused, setPaused] = useState(false);
+  const duration = toast.duration ?? (toast.action ? 6000 : 3500);
 
   useEffect(() => {
-    // Trigger entrance animation
-    requestAnimationFrame(() => setIsVisible(true));
+    if (paused) return;
+    const t = setTimeout(() => onDismiss(toast.id), duration);
+    return () => clearTimeout(t);
+  }, [paused, duration, toast.id, onDismiss]);
 
-    const timer = setTimeout(() => {
-      setIsLeaving(true);
-      setTimeout(() => onDismiss(toast.id), 300);
-    }, toast.duration || 4000);
-
-    return () => clearTimeout(timer);
-  }, [toast, onDismiss]);
-
-  const handleDismiss = () => {
-    setIsLeaving(true);
-    setTimeout(() => onDismiss(toast.id), 300);
-  };
-
-  const iconMap: Record<ToastType, React.ReactNode> = {
-    success: <CheckCircle2 className="w-5 h-5 text-emerald-500" />,
-    error: <AlertCircle className="w-5 h-5 text-red-500" />,
-    info: <Info className="w-5 h-5 text-blue-500" />,
-    warning: <AlertTriangle className="w-5 h-5 text-amber-500" />
-  };
-
-  const bgMap: Record<ToastType, string> = {
-    success: 'bg-emerald-50 border-emerald-200 shadow-emerald-100/50',
-    error: 'bg-red-50 border-red-200 shadow-red-100/50',
-    info: 'bg-blue-50 border-blue-200 shadow-blue-100/50',
-    warning: 'bg-amber-50 border-amber-200 shadow-amber-100/50'
-  };
-
-  const titleColorMap: Record<ToastType, string> = {
-    success: 'text-emerald-900',
-    error: 'text-red-900',
-    info: 'text-blue-900',
-    warning: 'text-amber-900'
-  };
-
-  const progressBarMap: Record<ToastType, string> = {
-    success: 'bg-emerald-400',
-    error: 'bg-red-400',
-    info: 'bg-blue-400',
-    warning: 'bg-amber-400'
-  };
-
+  const isError = toast.type === 'error';
   return (
     <div
-      className={`
-        pointer-events-auto rounded-lg border p-3.5 shadow-lg backdrop-blur-sm
-        transition-all duration-300 ease-out
-        ${bgMap[toast.type]}
-        ${isVisible && !isLeaving ? 'translate-x-0 opacity-100' : 'translate-x-8 opacity-0'}
-      `}
-      role="alert"
+      role={isError ? 'alert' : 'status'}
+      onMouseEnter={() => setPaused(true)}
+      onMouseLeave={() => setPaused(false)}
+      className={cn(
+        'pointer-events-auto flex w-full max-w-md items-start gap-3 rounded-lg px-4 py-3 shadow-float animate-[rise_180ms_ease-out]',
+        isError ? 'bg-away text-white' : 'bg-ink text-white'
+      )}
     >
-      <div className="flex items-start gap-3">
-        <div className="shrink-0 mt-0.5">{iconMap[toast.type]}</div>
-        <div className="flex-1 min-w-0">
-          <p className={`text-sm font-bold ${titleColorMap[toast.type]}`}>{toast.title}</p>
-          {toast.message && (
-            <p className="text-xs text-zinc-600 mt-0.5 leading-relaxed">{toast.message}</p>
-          )}
-        </div>
+      <div className="min-w-0 flex-1">
+        <p className="font-semibold">{toast.title}</p>
+        {toast.message && <p className="mt-0.5 text-sm text-white/80">{toast.message}</p>}
+      </div>
+      {toast.action && (
         <button
-          onClick={handleDismiss}
-          className="shrink-0 p-0.5 rounded hover:bg-zinc-200/60 text-zinc-400 hover:text-zinc-700 transition-colors"
-        >
-          <X className="w-3.5 h-3.5" />
-        </button>
-      </div>
-
-      {/* Animated progress bar */}
-      <div className="mt-2.5 h-[3px] rounded-full bg-zinc-200/60 overflow-hidden">
-        <div
-          className={`h-full rounded-full ${progressBarMap[toast.type]}`}
-          style={{
-            animation: `toast-progress ${toast.duration || 4000}ms linear forwards`
+          type="button"
+          onClick={() => {
+            toast.action!.onClick();
+            onDismiss(toast.id);
           }}
-        />
-      </div>
-
-      <style jsx>{`
-        @keyframes toast-progress {
-          from { width: 100%; }
-          to { width: 0%; }
-        }
-      `}</style>
+          className="-my-1 shrink-0 rounded-md px-3 py-1.5 font-semibold text-sky hover:bg-white/10"
+        >
+          {toast.action.label}
+        </button>
+      )}
+      <button
+        type="button"
+        onClick={() => onDismiss(toast.id)}
+        aria-label="Dismiss"
+        className="-my-1 -mr-2 shrink-0 rounded-md p-1.5 text-white/60 hover:bg-white/10 hover:text-white"
+      >
+        <X className="h-4 w-4" />
+      </button>
     </div>
   );
 }

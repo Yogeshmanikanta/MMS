@@ -12,6 +12,29 @@ Designed specifically for educational institutions (referenced from **Avanthi In
 
 ---
 
+## V2 (branch `v2-ui`)
+
+A redesign focused on fast daily entry by mess staff, on phone, tablet or desktop.
+
+| Screen | What it does | Replaces |
+| :--- | :--- | :--- |
+| **Today** | Everyone counts as present. Type a roll number (or its last digits), press Enter to mark the student away, then `B` `L` `D` to switch single meals back on. Live meal counts, “same as yesterday”, and a warning for past days nobody recorded. | Daily Attendance, Rapid Roll Lookup, Dashboard |
+| **Guests** | One-line entry: guest, item chip, quantity, Enter. Undo on add/delete, per-guest monthly accounts, Excel report. | Guest Ledger, Tokens |
+| **Bills** | Monthly register in the hostel Excel layout, editable month amount, freeze, Excel downloads. | Monthly Bills, Reports, Dashboard |
+| **Students** | Roll directory with real department/year filters, fast add (“Save and add another”), CSV **and** JSON import in one place. | Student Directory, Import |
+| **Prices** | Meal rates with start dates and guest items, edited inline. | Cost Management |
+
+Old URLs redirect to the new screens.
+
+**Data changes in V2**
+
+* Every change (attendance, students, guest entries, prices, frozen bills) is written to Supabase through a local queue, so entries made offline are sent when the connection returns. The sidebar shows sync state.
+* Attendance is stored as exceptions only, which keeps browser storage small; existing V1 browser data is migrated automatically.
+* **Billing rule:** an absent day is a recorded day on which the student ate nothing. Days nobody recorded no longer count as absent. The Bills screen lists such days so they can be filled in.
+* Admin sign-in reads `ADMIN_USERNAME` / `ADMIN_PASSWORD` from the environment; nothing is hard-coded.
+
+---
+
 ## 🌟 Key Modules & Features
 
 ### 1. 📅 Daily Attendance Management
@@ -33,7 +56,7 @@ Designed specifically for educational institutions (referenced from **Avanthi In
 * **Live Supabase Sync**: Any price change or new menu item added immediately syncs to the Supabase cloud database (`guest_items` and `meal_costs` tables).
 
 ### 4. 👥 Student Master & Seed Data System
-* **Pre-Seeded Roster**: Comes pre-populated with **395 active female hostel students** extracted directly from the official excel file (`W HOSTEL BILLS 2026.xlsx`).
+* **Pre-Seeded Roster**: Comes pre-populated with **393 active hostel students** extracted directly from the official excel file (`W HOSTEL BILLS 2026.xlsx`).
 * **Search & Multi-Filter**: Search by Roll Number or Name; filter by Department (ECE, CSE, EEE, Mechanical, Civil), Academic Year (1st, 2nd, 3rd Year), and Status (Active/Inactive).
 * **Bulk JSON & CSV Import**: Import hundreds of student records with automatic roll number deduplication.
 * **Status Toggling**: Easily activate or deactivate student mess privileges.
@@ -106,7 +129,7 @@ MMS/
 │   └── excel-export.ts         # ExcelJS Report Generator
 ├── supabase/
 │   ├── schema.sql              # PostgreSQL DDL Schema Script
-│   └── students_seed.json      # 395 Pre-seeded Student Master Records
+│   └── students_seed.json      # 393 pre-seeded student records
 ├── README.md                   # Project Overview & Guide
 └── SRS.md                      # Software Requirements Specification
 ```
@@ -138,12 +161,14 @@ MMS/
    ```env
    NEXT_PUBLIC_SUPABASE_URL=https://your-supabase-project-id.supabase.co
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
-   NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=your-supabase-anon-key
+   ADMIN_USERNAME=nytlabs
+   ADMIN_PASSWORD=choose-a-strong-password
    ```
+   See `.env.example`. Without the Supabase keys, data stays in the browser.
 
 4. **Setup Database Schema in Supabase**:
    - Open your Supabase Dashboard → **SQL Editor**.
-   - Copy and run the script from [`supabase/schema.sql`](file:///c:/Users/yoges/NTYLabsProjects/MMS/supabase/schema.sql).
+   - Copy and run the script from [`supabase/schema.sql`](supabase/schema.sql).
 
 5. **Run the Development Server**:
    ```bash
