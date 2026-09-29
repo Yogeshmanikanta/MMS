@@ -10,8 +10,8 @@ export default function LoginPage() {
   const router = useRouter();
   const { login, isAuthenticated, isLoading: authLoading } = useAuth();
 
-  const [username, setUsername] = useState('admin');
-  const [password, setPassword] = useState('admin123');
+  const [username, setUsername] = useState('NYTlabs');
+  const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -106,13 +106,13 @@ export default function LoginPage() {
           <form onSubmit={handleLoginSubmit} className="space-y-4 text-xs">
             {/* Username Input */}
             <div className="space-y-1.5">
-              <label className="font-semibold text-zinc-700 block">Username / Admin Email *</label>
+              <label className="font-semibold text-zinc-700 block">Username *</label>
               <div className="relative">
                 <User className="w-4 h-4 text-zinc-400 absolute left-3 top-3 pointer-events-none z-10" />
                 <input
                   type="text"
                   required
-                  placeholder="e.g. admin or admin@collegemess.edu"
+                  placeholder="e.g. NYTlabs"
                   value={username}
                   onChange={(e) => setUsername(e.target.value)}
                   className="input-base input-with-icon h-10 text-xs"
@@ -163,12 +163,6 @@ export default function LoginPage() {
               )}
             </button>
           </form>
-
-          {/* Quick Credential Hint for Demo */}
-          <div className="p-3 rounded-lg border border-zinc-200 bg-zinc-50 text-[11px] text-zinc-500 text-center space-y-0.5">
-            <span className="font-semibold text-zinc-600 block">Default Demo Credentials:</span>
-            <span>Username: <code className="text-blue-600 font-mono font-bold">admin</code> | Password: <code className="text-blue-600 font-mono font-bold">admin123</code></span>
-          </div>
 
         </div>
       </div>

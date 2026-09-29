@@ -15,17 +15,15 @@ export async function POST(request: Request) {
     const cleanUsername = String(username).trim().toLowerCase();
     const cleanPassword = String(password).trim();
 
-    // Server-side authentication check
-    // Valid admin usernames: 'admin' or 'admin@collegemess.edu'
-    // Valid admin passwords: 'admin123' or 'password123' or process.env.ADMIN_PASSWORD
-    const validUsername = cleanUsername === 'admin' || cleanUsername === 'admin@collegemess.edu' || cleanUsername === 'warden';
-    const validPassword = cleanPassword === 'admin123' || cleanPassword === 'password123' || (process.env.ADMIN_PASSWORD && cleanPassword === process.env.ADMIN_PASSWORD);
+    // Server-side authentication check for NYTlabs admin
+    const validUsername = cleanUsername === 'nytlabs' || cleanUsername === 'nytlabs@collegemess.edu';
+    const validPassword = cleanPassword === 'yogesh@613' || (process.env.ADMIN_PASSWORD && cleanPassword === process.env.ADMIN_PASSWORD);
 
     if (validUsername && validPassword) {
       const user = {
-        id: 'usr-admin-01',
-        name: 'Chief Warden / Admin',
-        email: 'admin@collegemess.edu',
+        id: 'usr-admin-nytlabs',
+        name: 'NYTlabs Administrator',
+        email: 'nytlabs@collegemess.edu',
         role: 'admin' as const,
         lastLogin: new Date().toISOString()
       };
