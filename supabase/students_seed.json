@@ -1,0 +1,3952 @@
+[
+  {
+    "name": "KADARI THANUJA",
+    "roll_number": "23811A0214",
+    "gender": "F",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "DANGUDUBIYYAPU BHAVANI",
+    "roll_number": "23811A0418",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "JEERU ASWANI",
+    "roll_number": "23811A0436",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "PUTTA KEERTHI",
+    "roll_number": "23811A0463",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "SASUBILLI MANASA",
+    "roll_number": "23811A0471",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "SIRIKI BHANUSRI",
+    "roll_number": "23811A0474",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "BAKA SWETHA",
+    "roll_number": "23811A0511",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "BALLEDA PAVITRA",
+    "roll_number": "23811A0513",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "BHIMIREDDI USHARANI",
+    "roll_number": "23811A0518",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "BONELA SWATHI",
+    "roll_number": "23811A0522",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CHILLA DURGA BHAVANI",
+    "roll_number": "23811A0526",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "DANGETI SYAMALA",
+    "roll_number": "23811A0530",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "GONDELA SALOMI",
+    "roll_number": "23811A0544",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "JARAJAPU GAYATRI",
+    "roll_number": "23811A0550",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "JUTHU YAMUNA",
+    "roll_number": "23811A0552",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "KALLA DEEPIKA",
+    "roll_number": "23811A0556",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "KOLA ANJALI",
+    "roll_number": "23811A0565",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "KOPPISETTI GAYATHRI",
+    "roll_number": "23811A0570",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CHINNI NAGA POOJITHA",
+    "roll_number": "23811A0585",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "MOKA RAJESWARI",
+    "roll_number": "23811A0591",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "PADALA LAKSHMI NAGA SUREKHA",
+    "roll_number": "23811A05A1",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "PAMMI REVATHI",
+    "roll_number": "23811A05A2",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "PEDDINTI GAYATHRI",
+    "roll_number": "23811A05A8",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "SONTYANA VIDHYA",
+    "roll_number": "23811A05C7",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "YERRA VENKATA LAKSHMI",
+    "roll_number": "23811A05E6",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "YERRIPALLI REVATHI",
+    "roll_number": "23811A05E8",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "BONI SRI LAKSHMI",
+    "roll_number": "23811A4206",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "REDDY JHANSI",
+    "roll_number": "23811A4242",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "ALTHI SAI PADMA",
+    "roll_number": "23811A4402",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "DOGGA HARITHA",
+    "roll_number": "23811A4405",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "KEMBURI MADHURI",
+    "roll_number": "23811A4412",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.MANI",
+    "roll_number": "24815A0502",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.SAI GEETTHA",
+    "roll_number": "24815A0431",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.CHANDINI",
+    "roll_number": "24811A0543",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.LAHARI",
+    "roll_number": "24811A05G7",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.MAHALAKSHMI",
+    "roll_number": "24811A4214",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SRIVIDHYA",
+    "roll_number": "24811A0418",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SAVITHRI",
+    "roll_number": "24811A0536",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.APPORVA",
+    "roll_number": "24811A4434",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.JANAKI",
+    "roll_number": "24811A0415",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.BHARGAVI",
+    "roll_number": "24811A0535",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.RISHITHA",
+    "roll_number": "24811A0222",
+    "gender": "F",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.VASANTHA",
+    "roll_number": "24811A0214",
+    "gender": "F",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.MEENA KUMARI",
+    "roll_number": "24811A04C8",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.SWETHA",
+    "roll_number": "24811A0571",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.KAVYA",
+    "roll_number": "24811A0447",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.TEJASWINI",
+    "roll_number": "24811A4216",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.RAVALI",
+    "roll_number": "24811A4205",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.LAVANYA",
+    "roll_number": "3 RD YEAR",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.VYSHALI",
+    "roll_number": "24811A05B1",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.DEVIANJALI",
+    "roll_number": "24811A4223",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "SK SHYLA BHANU",
+    "roll_number": "24811A4439",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "E.MAILKA",
+    "roll_number": "24811A05D9",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "J.SIRIHSA",
+    "roll_number": "24811A0211",
+    "gender": "F",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.INDU",
+    "roll_number": "24811A0473",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.DHANA LAKSHMI",
+    "roll_number": "24811A0485",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.DEVAKI",
+    "roll_number": "24811A0405",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.RAJESHWARI",
+    "roll_number": "24811A0221",
+    "gender": "F",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.LAHARI",
+    "roll_number": "24811A0409",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.HASINI",
+    "roll_number": "24811A0444",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.AKHILA",
+    "roll_number": "24811A4412",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.SAI",
+    "roll_number": "24811A0440",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.MADHURI",
+    "roll_number": "24811A04B2",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.THANUJA",
+    "roll_number": "24811A05J0",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.HEMA",
+    "roll_number": "24811A4409",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.MEENAKSHI",
+    "roll_number": "24811A0443",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.DIVYA",
+    "roll_number": "24811A0533",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.INDU",
+    "roll_number": "24811A4432",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.NANDINI",
+    "roll_number": "24811A05B7",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.LEELAVATHI",
+    "roll_number": "24811A0525",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.SAI DIVYA",
+    "roll_number": "24811A0435",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.VIJAYALAKSHMI",
+    "roll_number": "24811A0581",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.KUSUMA",
+    "roll_number": "24811A0554",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.BHAVANA",
+    "roll_number": "24811A0519",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.ANUSHA",
+    "roll_number": "24811A05B6",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PARVATHI",
+    "roll_number": "24811A04A2",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.SRAVYA",
+    "roll_number": "24811A0403",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.GREESHMA",
+    "roll_number": "24811A05H5",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.YOGANA SRI",
+    "roll_number": "24811A0526",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.ROSHINI",
+    "roll_number": "24811A0471",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.JHANAVI",
+    "roll_number": "24811A05A2",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.ASWINI",
+    "roll_number": "24811A0541",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.VEERA YOGITHA",
+    "roll_number": "24811A04A8",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.HITHA SREE",
+    "roll_number": "24811A05C6",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.ANITHA",
+    "roll_number": "24811A0546",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.INDRANI",
+    "roll_number": "25815A0529",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.NEERAJA",
+    "roll_number": "25815A0432",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.SHAINI",
+    "roll_number": "25815A0505",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.KUSUMA KUMARI",
+    "roll_number": "25815A0205",
+    "gender": "F",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K DIVYA",
+    "roll_number": "25815A0412",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R BHAVANI",
+    "roll_number": "25815A0429",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T DEEPTHI",
+    "roll_number": "25815A0439",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.TULASI",
+    "roll_number": "25815A0524",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.LOKYA",
+    "roll_number": "ROLL-M.LOKYA",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.SAMEERA",
+    "roll_number": "25815A0437",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.ANUSHA",
+    "roll_number": "25815A0526",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.PAVITHRA",
+    "roll_number": "25815A0553",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.LAKSHMI LAHARI",
+    "roll_number": "DIPLOMA",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M YOGESHWARI",
+    "roll_number": "25597-CM-073",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.DIVYA",
+    "roll_number": "1 ST YEAR",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.CHANDRAKALA",
+    "roll_number": "25811A0454",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.SRUJANA GRACE",
+    "roll_number": "25811A42D3",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.LAKSHAMANAMMA",
+    "roll_number": "25811A42A0",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.TULASI",
+    "roll_number": "25811A4258",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T,LAKSHMI SANTOSHI",
+    "roll_number": "25811A42A8",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.SAI LAGA",
+    "roll_number": "25811A0569",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.CHARISHMA",
+    "roll_number": "25811A0221",
+    "gender": "F",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.PURNIAMA",
+    "roll_number": "25811A4467",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.PRYATHYUSHA",
+    "roll_number": "25811A4402",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.REVATHI SATYA",
+    "roll_number": "25811A4415",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.MOUNIKA SREE",
+    "roll_number": "25811A0506",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.MEGHANA",
+    "roll_number": "25811A0486",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.VANAKSHI",
+    "roll_number": "25811A05E8",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.MEENAKSHI",
+    "roll_number": "25811A05I7",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.ANURADHA",
+    "roll_number": "25811A0455",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.PAVITHRA",
+    "roll_number": "25811A05D1",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.GHANAVI",
+    "roll_number": "25811A0568",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.KEERTHI",
+    "roll_number": "25811A0546",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.YAMINI",
+    "roll_number": "25811A0429",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.LALITHA",
+    "roll_number": "25811A4289",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.JHANAVI",
+    "roll_number": "25811A05G5",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.SOWMAYA",
+    "roll_number": "25811A0556",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.SRAVANI",
+    "roll_number": "25811A05J1",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.MADHURI",
+    "roll_number": "25811A0485",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.MANJUMALLISWARI",
+    "roll_number": "25811A05D5",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.LALITHA",
+    "roll_number": "25811A0599",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PRATYUSHA",
+    "roll_number": "25811A4443",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.INDHUMATHI",
+    "roll_number": "25811A05N7",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.AMULYA",
+    "roll_number": "25811A05Q3",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.RAMYA",
+    "roll_number": "25811A04E0",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.LAVANYA",
+    "roll_number": "25811A0476",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.LAKSHMI PRASANA",
+    "roll_number": "25811A05A3",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "L.SINDHU",
+    "roll_number": "25811A05G8",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.YASHASWINI",
+    "roll_number": "25811A0526",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.SRAVYA",
+    "roll_number": "25811A0494",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.AKSHARA",
+    "roll_number": "25811A0575",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.SHOBHA RANI",
+    "roll_number": "25811A04B8",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.POOJITHA",
+    "roll_number": "25811A0484",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.LASYA",
+    "roll_number": "25811A0502",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.RAGO DEVI",
+    "roll_number": "25811A0503",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "C.PRAVALIKA",
+    "roll_number": "25811A05M2",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M,ARCHANA REDDY",
+    "roll_number": "258110A4420",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.MAMATHA",
+    "roll_number": "25811A05N9",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "J.HARIKA",
+    "roll_number": "25811A4473",
+    "gender": "F",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.PRAVALIKA",
+    "roll_number": "25811A0553",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.SOWMYA",
+    "roll_number": "25811A05M5",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.BHAVANI",
+    "roll_number": "25811A05Q8",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.RENUKA",
+    "roll_number": "25811A04G2",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.VARA LAXMI",
+    "roll_number": "ROLL-B.VARALAXMI",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.DURGA",
+    "roll_number": "ROLL-M.DURGA",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.MADHU SHALINI",
+    "roll_number": "ROLL-B.MADHUSHALINI",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.JHANSI",
+    "roll_number": "ROLL-CH.JHANSI",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "U.YASHASWINI",
+    "roll_number": "ROLL-U.YASHASWINI",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.KOMALI RAMYA DEVI",
+    "roll_number": "ROLL-K.KOMALIRAMYADEVI",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.BHAVANI",
+    "roll_number": "ROLL-CH.BHAVANI",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.HAREESHA",
+    "roll_number": "ROLL-B.HAREESHA",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.NAVYA",
+    "roll_number": "ROLL-G.NAVYA",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.MOUNIKA",
+    "roll_number": "ROLL-K.MOUNIKA",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.DURGA SOWJANYA",
+    "roll_number": "ROLL-D.DURGASOWJANYA",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.MADHURI",
+    "roll_number": "L.E",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "PRIYANAKA",
+    "roll_number": "PD",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "BHANU",
+    "roll_number": "WARDEN",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Total",
+    "roll_number": "ROLL-Total",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Verified",
+    "roll_number": "A.O",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "NALLA SANDEEP",
+    "roll_number": "23811A0456",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "POTHANA SATYA GANESH",
+    "roll_number": "23811A0462",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CHOWDUVADA AYYAPPA",
+    "roll_number": "23811A0528",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "KODAPAKA JNANA NAGA CHARAN",
+    "roll_number": "23811A0564",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "THAPPETA NAGESH",
+    "roll_number": "23811A05D6",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "DANGETI VISHWANT SATYANARAYANA",
+    "roll_number": "23811A4210",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "GARBAANA DAMODHAR RAO",
+    "roll_number": "23811A4407",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "KANDHI RISHI KUAMR",
+    "roll_number": "23811A4411",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "BUDDUPU MANI",
+    "roll_number": "23811A4432",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "SADHU GOVINDA RAJULU",
+    "roll_number": "23811A4244",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.NARASIMHA NAIDU",
+    "roll_number": "23811A0477",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.KALYAN BABU",
+    "roll_number": "24815A0414",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.VIKRANTH",
+    "roll_number": "24815A0520",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.KRISHNA MOHAN",
+    "roll_number": "23811A05E7",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.MANOJ",
+    "roll_number": "24811A05F8",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.SARATH KUMAR",
+    "roll_number": "24811A05P0",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PAVAN KUMAR",
+    "roll_number": "24811A05I2",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.BHEEMESH",
+    "roll_number": "24811A05D4",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.KOUSHIK",
+    "roll_number": "24811A05F3",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.VISHNU VARDHAN",
+    "roll_number": "24811A05E4",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.GANAPATHI",
+    "roll_number": "24811A0304",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.DHANUJAYA",
+    "roll_number": "24811a05j1",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.GANESAR RAO",
+    "roll_number": "24811A0537",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.UDAY KUMAR",
+    "roll_number": "24811A0215",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.ROHITH",
+    "roll_number": "24811A05K1",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.CHAITANAYA SWAMY",
+    "roll_number": "24811A05F2",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SANTOSH",
+    "roll_number": "24811A0419",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.BHAVANI NAIDU",
+    "roll_number": "24811A0570",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.SATYANARAYANA",
+    "roll_number": "24811A05H8",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SIVA KRISHNA",
+    "roll_number": "24811A0410",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.CHAKRI",
+    "roll_number": "24811A4414",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.THARUN",
+    "roll_number": "24811A05C4",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.NAGESH",
+    "roll_number": "24811A04C6",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.SATEESH",
+    "roll_number": "ROLL-K.SATEESH",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.GANESH",
+    "roll_number": "24811A4442",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.HEMANTH RAO",
+    "roll_number": "24811A05C5",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.MANIKANTA",
+    "roll_number": "24811A0515",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.THANUJ SWAMI",
+    "roll_number": "24811A04C0",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.THIRUMALA REDDY",
+    "roll_number": "24811A0560",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.VENKATESH",
+    "roll_number": "24811A05B3",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.SAI",
+    "roll_number": "24811A0507",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.GANESH",
+    "roll_number": "24811A0208",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.GOWRI SHANKAR",
+    "roll_number": "24811A0575",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.DURGA PRASAD",
+    "roll_number": "24811A0441",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.SIDHU HEMANTH",
+    "roll_number": "24811A0402",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.KARTHIK",
+    "roll_number": "24811A0484",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.KARTHIK",
+    "roll_number": "24811A0210",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.RANJITH REDDY",
+    "roll_number": "24811A0508",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.ABHISHEK",
+    "roll_number": "24811A0442",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.SUVARNA RAJU",
+    "roll_number": "24811A04C5",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.JOSEPH",
+    "roll_number": "24811A04B9",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.BHARAT KUMAR",
+    "roll_number": "24811A04C4",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "I.HARIPRASAD",
+    "roll_number": "24811A0445",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.PAVAN",
+    "roll_number": "24811A0207",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.PRAVEEN",
+    "roll_number": "24811A0420",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.SUDHEER",
+    "roll_number": "24811A0460",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.KRISHNA CHAITANYA",
+    "roll_number": "24811A05D3",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SAI RAJESH",
+    "roll_number": "25815A0509",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.KOUSHIK SAI",
+    "roll_number": "25815A0430",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S,DURGA PRASAD",
+    "roll_number": "25815A0433",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.S.V.DURGA PRASAD",
+    "roll_number": "25815A0554",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.SIVA",
+    "roll_number": "25815A0218",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SATYA SRINIVAS",
+    "roll_number": "25815A0508",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.SATYA KISHORE",
+    "roll_number": "25815A0416",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.KARTHIK",
+    "roll_number": "25815A0210",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.RAMA KRISHNA",
+    "roll_number": "25815A0552",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "E,PRASAD",
+    "roll_number": "25815A0222",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.GOWTHAM",
+    "roll_number": "25815A0537",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.SAI VAMSI",
+    "roll_number": "25815A0541",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.LOVA RAJU",
+    "roll_number": "25815A0204",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.SUMANTH",
+    "roll_number": "25815A0462",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.SUBHARAO",
+    "roll_number": "25815A0444",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PRADEEP",
+    "roll_number": "25815A0445",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.NAGAKUSUDU",
+    "roll_number": "25815A0446",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.RAJA BABU",
+    "roll_number": "25815A0447",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.HEMANTH",
+    "roll_number": "25815A0448",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.BHARATH",
+    "roll_number": "25815A0449",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.KARTHIK",
+    "roll_number": "25815A0450",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.LAXMAN RAO",
+    "roll_number": "25815A0451",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.PAVAN KUMAR",
+    "roll_number": "25815A0452",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "SWAMY",
+    "roll_number": "25815A0453",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.KALYAN RAM",
+    "roll_number": "25815A0454",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.MANOHAR",
+    "roll_number": "25815A0455",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.SAI KUMAR",
+    "roll_number": "25815A0456",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "SAMEERA PATHI",
+    "roll_number": "25815A4409",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.NARESH",
+    "roll_number": "24811A05F6",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PARDHU",
+    "roll_number": "25815A0423",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "ANWAR",
+    "roll_number": "ROLL-ANWAR",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.VISHNU TEJA",
+    "roll_number": "ROLL-K.VISHNUTEJA",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.SATEESH",
+    "roll_number": "ROLL-M.SATEESH",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.LOHITH NAG",
+    "roll_number": "24811A0305",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.MAHENDRA PADAL",
+    "roll_number": "24811A05K6",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "AVANTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "roll_number": "AVANTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "TAMARAM,MAKAVARAPALEM,VISAKHAPATNAM-DT",
+    "roll_number": "TAMARAM,MAKAVARAPALEM,VISAKHAPATNAM-DT",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.V.TRINADH",
+    "roll_number": "25811A0452",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.JAGADEESH",
+    "roll_number": "25811A0404",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.RAJ PAVAN",
+    "roll_number": "25811A0424",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.PAVAN TEJA",
+    "roll_number": "25811A4298",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.CHANDAN",
+    "roll_number": "25811A0310",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.TARUN",
+    "roll_number": "25811A05H8",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.PRANAY",
+    "roll_number": "25811A0311",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.NITEESH",
+    "roll_number": "25811A0308",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.HEMANTH KUMAR",
+    "roll_number": "25811A0573",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.KIRAN",
+    "roll_number": "25811A04248",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.HEMANTH",
+    "roll_number": "25811A05C0",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.GOVARDHAN",
+    "roll_number": "25811A0431",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.HEMANTH KUMAR",
+    "roll_number": "25811A05B4",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.ARJUN",
+    "roll_number": "25597EE035",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.KARTHIK",
+    "roll_number": "25811A0550",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M,MOHAN REDDY",
+    "roll_number": "25811A0466",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "ANURGAH",
+    "roll_number": "25811A0517",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "TEJASWAR RAO",
+    "roll_number": "25811A4449",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "ROHITH",
+    "roll_number": "25811A4457",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.ABHISHEK",
+    "roll_number": "25811A05E1",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.VENKATESH",
+    "roll_number": "25811A4439",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.CHINNA VIAJYA BABU",
+    "roll_number": "25597-EE-007",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.KARTHIKEYA",
+    "roll_number": "25597-EE-09",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.DURGA PARSAD",
+    "roll_number": "25597-EE-105",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.VINAY KUMAR",
+    "roll_number": "2597-CM-089",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "J.SWAMY",
+    "roll_number": "25597-EC-015",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.UDAY",
+    "roll_number": "25597-CM-104",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.SANTOSH KUMAR",
+    "roll_number": "25597-CM-027",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.NIKHL MANIKANATA",
+    "roll_number": "25597-CM-079",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.TARUN",
+    "roll_number": "25597-CM-031",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.NAVEEN",
+    "roll_number": "22597-CM-066",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "3rd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.ROHITH KUMAR",
+    "roll_number": "25811A0320",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "Y.YASHWANTH KUMAR",
+    "roll_number": "25811A05Q5",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.VINAY KUMAR",
+    "roll_number": "25811A0401",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.YOGESWAR",
+    "roll_number": "25811A0329",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.RAJ KUMAR",
+    "roll_number": "25811A0302",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.PAVAN KUMAR",
+    "roll_number": "25811A05D8",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.KIRAN KUMAR",
+    "roll_number": "25811A0593",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.SAI",
+    "roll_number": "25597-EE-013",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.KIRAN",
+    "roll_number": "25811A0317",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.MANOJ KUMAR",
+    "roll_number": "25811A05N2",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "J.VINAY",
+    "roll_number": "25811A0441",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.SUBHASH",
+    "roll_number": "25597-CM-074",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.SAI KUMAR",
+    "roll_number": "25811A4299",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.KRISHNA VAMSI",
+    "roll_number": "25811A05F9",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.ANIL KUMAR",
+    "roll_number": "25811A0525",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PAVAN KUMAR",
+    "roll_number": "25811A0205",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.SAI CHARAN",
+    "roll_number": "25811A04B3",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.GANESH",
+    "roll_number": "25811A0538",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.RAGHU RAM",
+    "roll_number": "25811A0330",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.SYAM KUMAR",
+    "roll_number": "25811A05M8",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.PAVAN KUMAR",
+    "roll_number": "25811A05K7",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.NARENDRA",
+    "roll_number": "25811A05Q9",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.VINAY KUMAR",
+    "roll_number": "ROLL-P.VINAYKUMAR",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.HEMANTH",
+    "roll_number": "25811A04C6",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.SAI KUMAR",
+    "roll_number": "ROLL-S.SAIKUMAR",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.PHANINDRA",
+    "roll_number": "ROLL-G.PHANINDRA",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.MAHENDRA",
+    "roll_number": "LE",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.RAJESH",
+    "roll_number": "B TECH",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "GRAND TOTAL",
+    "roll_number": "ROLL-GRANDTOTAL",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.HEMALATHA",
+    "roll_number": "24811A04B7",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.DIVYA",
+    "roll_number": "24811A05J6",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.PRIYA DHARSHINI",
+    "roll_number": "24811A05G4",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.RAMYA",
+    "roll_number": "24811A0539",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.VANDANA",
+    "roll_number": "25811A0570",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.BINDU AKSHITHA",
+    "roll_number": "25811A0403",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.SIRISHA",
+    "roll_number": "25811A0563",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.TULASI LAKSHMI",
+    "roll_number": "25811A42A9",
+    "gender": "F",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.GEETHANJALI",
+    "roll_number": "25811A0501",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.VENAKATA SRIVALLI",
+    "roll_number": "25815A0546",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.PUSHPA",
+    "roll_number": "25811A0491",
+    "gender": "F",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.SATYAVATHI",
+    "roll_number": "25811A05I3",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.DEEPIKA",
+    "roll_number": "25811A05I9",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.TEJASWINI",
+    "roll_number": "25811A05E3",
+    "gender": "F",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "U.BINDU",
+    "roll_number": "FACULTY",
+    "gender": "F",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.PAVAN RAMESH",
+    "roll_number": "25811A42B9",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.SAI MAHADEV",
+    "roll_number": "25811A2508",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "RAJESH SAHU",
+    "roll_number": "25811A0504",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.CHIRANHJEEVI KUMAR",
+    "roll_number": "1ST YEAR",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PRASAD",
+    "roll_number": "25811A0321",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SAGAR",
+    "roll_number": "25811A0203",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.LIKITH VARAMA",
+    "roll_number": "25811A4462",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.JAYA RAM",
+    "roll_number": "25811A0590",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.DURGA PRASAD",
+    "roll_number": "25811A05D0",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CHNADRA SEKHAR GOPI",
+    "roll_number": "25811A0580",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.JAGADEESH",
+    "roll_number": "25811A0201",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.MANIKANTA",
+    "roll_number": "25811A44G7",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.SURYA SAROCSH PAD",
+    "roll_number": "25811A05G3",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.NARESH",
+    "roll_number": "25811A4276",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "CH.KARTHIK",
+    "roll_number": "25811A0542",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.SARATH KUMAR",
+    "roll_number": "25811A0518",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.AJAY KUMAR REDDY",
+    "roll_number": "25811A4453",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "A.NARASIMHUDU NAIDU",
+    "roll_number": "25811A4480",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "M.ANIL",
+    "roll_number": "25811A4429",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.PAVAN KUMAR",
+    "roll_number": "25811A4232",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.JAYAVARDHAN",
+    "roll_number": "25811A0532",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.NAGENDRA",
+    "roll_number": "25811A05C5",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.HARSHA VARDHAN",
+    "roll_number": "25811A05P2",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.DURGA PRASAD",
+    "roll_number": "25811A04B2",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.DIVAKAR",
+    "roll_number": "25811A04G8",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "L.RAMESH",
+    "roll_number": "25811A05C2",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.NANI REDDY",
+    "roll_number": "25811A0505",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.SATYA CHARAN",
+    "roll_number": "25811A4417",
+    "gender": "M",
+    "department": "CSE (Data Science)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.DURGA PRASAD",
+    "roll_number": "25811A0528",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.KOTESWARA RAO",
+    "roll_number": "25811A05C9",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.LOKESH",
+    "roll_number": "25811A0405",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.NAVEEN",
+    "roll_number": "25811A0206",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "LOHITH",
+    "roll_number": "AO",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S,NAGA KUSUDU",
+    "roll_number": "24811A0528",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.ABHI TEJA",
+    "roll_number": "24811A05G5",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "N.SURYA",
+    "roll_number": "24811A0477",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.NAGA SAI",
+    "roll_number": "24811A4225",
+    "gender": "M",
+    "department": "CSE (AI & ML)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.LEE RAM CHARAN",
+    "roll_number": "24811A0451",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R,PAVAN KUMAR",
+    "roll_number": "24811A05K0",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.SWAMY",
+    "roll_number": "24811A05EF2",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.PAVAN",
+    "roll_number": "24811A0310",
+    "gender": "M",
+    "department": "Mechanical Engg (MECH)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V,BHARATH",
+    "roll_number": "25815A0561",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.SIVA KUMAR",
+    "roll_number": "24811A0538",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "1st Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "B.RAMANANDA GIRI",
+    "roll_number": "25815A0506",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.RAJESH",
+    "roll_number": "25815A0403",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.KARTHIK",
+    "roll_number": "25815A0530",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "R.DINESH",
+    "roll_number": "25815A0213",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.JANARDHAN",
+    "roll_number": "25815A0442",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PRADEEP",
+    "roll_number": "25815A0544",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.RAGAVENDRA",
+    "roll_number": "25815A0555",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "J.THANUSH",
+    "roll_number": "25815A0409",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.SREENU",
+    "roll_number": "25815A0211",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "P.PAVAN VENKAT",
+    "roll_number": "25815A0427",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "G.MOHAN KUMAR",
+    "roll_number": "25815A0519",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.SAI SRI HARSHA",
+    "roll_number": "25815A0431",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.RAJABABU",
+    "roll_number": "25815A0512",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "S.ANSAQ BASHA",
+    "roll_number": "ROLL-S.ANSAQBASHA",
+    "gender": "M",
+    "department": "Engineering & Technology",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "D.UDAY KUMAR",
+    "roll_number": "25815A0513",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "V.GOWTHAM",
+    "roll_number": "25815A0443",
+    "gender": "M",
+    "department": "Electronics & Comm (ECE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.SURYA NARAYANA",
+    "roll_number": "25815A0534",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "K.LOKESWA RAO",
+    "roll_number": "25815A0538",
+    "gender": "M",
+    "department": "Computer Science & Engg (CSE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  },
+  {
+    "name": "T.SAI SUDHAKAR",
+    "roll_number": "25815A0217",
+    "gender": "M",
+    "department": "Electrical & Electronics (EEE)",
+    "year": "2nd Year",
+    "course": "B.Tech",
+    "status": "active",
+    "joined_at": "2026-01-01"
+  }
+]
